@@ -1,0 +1,75 @@
+body{
+
+	background-color:#2af199;
+
+	
+	
+	
+	
+	
+}
+.klnncıadi {
+	
+	margin-top:50px;
+	margin-left:10px;
+	
+	
+	
+	
+	
+	
+	
+}
+
+
+
+
+.klnncıadi input {
+
+	
+	height:40px;
+	width:200px;
+  border: 2px solid black;
+  border-radius: 20px;
+  
+	
+	
+	
+	
+	
+}
+
+.gndr input:hover {
+	
+
+background-color:#ced3d1;
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+.gndr{
+	margin-left:50px;
+	
+	
+	
+	
+}
+.gndr input{
+	
+	height:30px;
+	width:100px;
+	  border: 2px solid black;
+  border-radius: 20px;
+  background-color:#38bb81;
+	
+}
