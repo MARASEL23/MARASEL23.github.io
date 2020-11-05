@@ -20,7 +20,7 @@ body{
     color: azure;
 }
 .renk{
-    color: azure;
+    color: #FBEEE6;
 }
 .pastel{
     color: #FBEEE6;
@@ -43,7 +43,7 @@ body{
 .resimler{
     background-color:#121212;
     color: #121212;
-    padding: 60px;
+    padding: 10px;
 }
 .resimyaprak{
     font-size: 33px;
@@ -69,22 +69,24 @@ body{
     font-size: 18px;
 }
 #menursm{
-    width: 40px;
-    height: 40px;
+    width: 16px;
+    height: 16px;
+    font-size: 22px;
 }
 
 .butunmenu{
     font-family: 'Itim', cursive;
 }
 .menuyazi{
-    font-size: 20px;
-    color: #FBEEE6;
+    font-size: 18px;
+    color: #FBEEE6; 
 }
 #gif {
-    width: 25px;
-    height: 25px;
+    width: 24px;
+    height: 24px;
+    margin-top: 2px;
     margin-right: 20px;
-    margin-left: -10px;
+    margin-left: -12px;
 }
 #header{
     position: sticky;
@@ -105,3 +107,13 @@ body{
 #olartik2{
     color:#FFA48D;
 }
+.card-deck {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+#deneme2{
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+
